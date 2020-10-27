@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>/zxg0.git.io/2020/10/27/hello/</url>
-    <content><![CDATA[<p>我的第一篇博客</p>
-<hr>
-]]></content>
+    <title>Hello World</title>
+    <url>/zxg0.git.io/2020/10/27/hello-world/</url>
+    <content><![CDATA[<h1 id="加油"><a href="#加油" class="headerlink" title="加油"></a>加油</h1>]]></content>
   </entry>
 </search>
